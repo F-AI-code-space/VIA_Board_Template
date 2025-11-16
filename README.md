@@ -12,7 +12,7 @@ Template mẫu điều khiển robot:
 - Điều khiển bằng tay cầm PS2
 - PCA9685 điều khiển nhiều PWM
 - 4 Motor DC + 6 Servo hoạt động độc lập
-- Code tách `*.h` và `*.cpp` kiểu chuyên nghiệp
+- Code tách `*.h` và `*.cpp` 
 
 ---
 
