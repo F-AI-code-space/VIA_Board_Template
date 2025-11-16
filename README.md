@@ -1,6 +1,6 @@
 # VIA Board Template – Training STEM FPTU 2025
 
-**Template điều khiển Robot dùng ESP32 + PS2 + PCA9685**
+** Template điều khiển Robot dùng ESP32 + PS2 + PCA9685**
 Điều khiển đồng thời **4 motor DC** và **6 servo**, code tách file rõ ràng, dễ mở rộng, phù hợp cho giảng dạy – nghiên cứu – CLB STEM.
 
 ---
@@ -23,7 +23,7 @@ Template mẫu điều khiển robot:
 - R2 = bật Turbo (tốc độ tối đa)
 - Có thể mở rộng các nút D-Pad, L1, R1
 
-###Điều khiển Servo
+### Điều khiển Servo
 - 6 Servo (180° & 360°)
 - Nút L2, L3, △, X, □ được gán sẵn
 - Dễ dàng thêm nút trong `servo_control.cpp`
@@ -110,7 +110,6 @@ Template mẫu điều khiển robot:
 
 # Cấu trúc thư mục
 
-\`\`\`
 📁 VIA-Template
  ┣ 📁 src
  │   ┣ motor_control.cpp
@@ -122,7 +121,6 @@ Template mẫu điều khiển robot:
  ┣ 📁 lib
  ┣ LICENSE
  ┗ README.md
-\`\`\`
 
 ---
 
